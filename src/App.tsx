@@ -30,9 +30,11 @@ export default function Page() {
       {yesPressed ? (
         <>
           <img src="https://media1.tenor.com/m/2JXCPmFhey8AAAAd/mintyai4.gif" />
-          <div className="my-4 text-4xl font-bold">Thank you for your support always
-            and thank you for not giving up on me☺️ 
-            We will fight the world together 💗</div>
+          <div className="my-4 text-4xl font-bold">
+          <p>Thank you for your support always</p>
+          <p>and thank you for not giving up on me 😌</p>
+          <p>We will fight the world together 💗</p>
+          </div>
         </>
       ) : (
         <>
