@@ -34,7 +34,7 @@ export default function Page() {
     <div className="-mt-16 flex h-screen flex-col items-center justify-center">
       {yesPressed ? (
         <>
-          <img src="https://media.tenor.com/gUiu1zyxfzYAAAAi/bear-kiss-bear-kisses.gif" />
+          <img src="https://media1.tenor.com/m/2JXCPmFhey8AAAAd/mintyai4.gif" />
           <div className="my-4 text-4xl font-bold">We will fight the world together 💗</div>
         </>
       ) : (
