@@ -18,7 +18,7 @@ export default function Page() {
       "Agar tumhara fav chocolate dung to manogi??🥹",
       "PLEASE MERI PYAARI BILLI",
       "please🥹,
-      "please babyyyyyyy🥹",
+      "please babyyyyyy🥹",
       "No :(",
     ];
 
