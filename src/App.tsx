@@ -17,8 +17,8 @@ export default function Page() {
       "please maan jaao🥹",
       "Agar tumhara fav chocolate dung to manogi??🥹",
       "PLEASE MERI PYAARI BILLI",
-      "please🥹,
-      "please babyyy🥹",
+      "please🥹",
+      "please babyyyyyy🥹",
       "No :(",
     ];
 
