@@ -17,13 +17,8 @@ export default function Page() {
       "please maan jaao🥹",
       "Agar tumhara fav chocolate dung to manogi??🥹",
       "PLEASE MERI PYAARI BILLI",
-      "But :*(",
-      "I am going to die",
-      "Yep im dead",
-      "ok ur talking to Ayush's ghost",
-      "please babe",
-      ":((((",
-      "PRETTY PLEASE",
+      "please🥹,
+      "please babyyyyyyy🥹",
       "No :(",
     ];
 
